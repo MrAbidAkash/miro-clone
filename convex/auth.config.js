@@ -2,7 +2,7 @@
 export default {
   providers: [
     {
-      domain: "https://strong-mallard-62.clerk.accounts.dev",
+      domain: "https://welcomed-piranha-52.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
